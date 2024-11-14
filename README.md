@@ -7,7 +7,7 @@ Saya adalah seorang Mahasiswa di Telkom University Purwokerto.<br>
 Saya memiliki minat pada :<br>
 
 - 🔭 **Machine Learning.**<br>
-- 🌱 **Android Development.**<br>
+- 🌱 **Mobile Development.**<br>
 - 👯 **Web Development.**<br>
 
 ### Languages and Tools:
